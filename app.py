@@ -4,7 +4,6 @@ import requests
 import numpy as np
 import pandas as pd
 import joblib
-import sklearn
 
 #st.set_page_config(
             #page_title="Oil Production Prediction", # => Quick reference - Streamlit
