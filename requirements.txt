@@ -3,4 +3,5 @@ pandas
 numpy
 requests
 joblib
+matplotlib
 scikit-learn==1.1.2
